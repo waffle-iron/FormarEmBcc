@@ -1,2 +1,3 @@
+[![Stories in Ready](https://badge.waffle.io/guilhermeip/FormarEmBcc.png?label=ready&title=Ready)](https://waffle.io/guilhermeip/FormarEmBcc?utm_source=badge)
 # FormarEmBcc
 Este projeto ilustra o caminho de um estudante em bcc...
